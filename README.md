@@ -2,7 +2,7 @@
 
 **GTAL+** (Game-Theoretic Attention Learning Plus) is a novel deep learning framework for fine-grained visual classification (FGVC). It models the feature extraction process as a multi-player cooperative game where different hierarchical feature levels (Early, Mid, Late, Semantic) compete and cooperate to optimize classification performance.
 
-![GTAL+ Architecture](gtal_architecture.png)
+![GTAL+ Architecture](archi.png)
 
 ## Overview
 
